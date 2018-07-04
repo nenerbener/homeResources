@@ -1,0 +1,9 @@
+.gitconfig
+.vimrc
+.bashrc
+.vrapperrc
+.zshrc
+.bash_logout
+.tmux.conf
+.gitignore
+initfiles.txt (this file)

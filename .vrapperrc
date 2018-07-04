@@ -1,0 +1,3 @@
+" vrapper resource file
+" nnoremap P kpj
+set scrolloff=15

@@ -1,0 +1,12 @@
+# gitignore file for home resource files
+*
+*/
+!.gitconfig
+!.vimrc
+!.bashrc
+!.vrapperrc
+!.zshrc
+!.bash_logout
+!.tmux.conf
+!.gitignore
+!.initfiles
