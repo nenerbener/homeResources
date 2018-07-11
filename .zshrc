@@ -147,3 +147,5 @@ export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")
 
 # less tabstop set
 LESS="-x2"
+
+export TMUX_PLUGIN_MANAGER_PATH="~/.tmux/plugins/"
