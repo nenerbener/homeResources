@@ -8,7 +8,7 @@
 !.zshrc
 !.bash_logout
 !.tmux.conf
-!./.tmux/**/*
+!.tmux/**/*
 !.gitignore
 !.initfiles
 !ubuntu-files
