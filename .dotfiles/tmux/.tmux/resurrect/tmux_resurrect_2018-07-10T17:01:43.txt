@@ -1,0 +1,4 @@
+pane	0	1	:~	1	:*	0	:/home/mm	0	zsh	:
+pane	0	1	:~	1	:*	1	:/home/mm	1	zsh	:
+window	0	1	1	:*	8773,173x50,0,0{86x50,0,0,0,86x50,87,0,2}
+state	0	

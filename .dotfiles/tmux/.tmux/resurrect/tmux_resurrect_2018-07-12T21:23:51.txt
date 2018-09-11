@@ -1,0 +1,10 @@
+pane	0	1	:~	1	:*	0	:/home/mm	1	zsh	:
+pane	0	1	:~	1	:*	1	:/home/mm	0	zsh	:
+pane	2	1	:~	1	:*	0	:/home/mm	1	zsh	:
+pane	6	1	:~	1	:*	0	:/home/mm	1	zsh	:
+pane	7	1	:~	1	:*	0	:/home/mm	1	zsh	:
+window	0	1	1	:*	ebcc,173x50,0,0{86x50,0,0,12,86x50,87,0,13}
+window	2	1	1	:*	ae61,80x23,0,0,4
+window	6	1	1	:*	ae66,80x23,0,0,9
+window	7	1	1	:*	5760,80x23,0,0,11
+state	0	2
